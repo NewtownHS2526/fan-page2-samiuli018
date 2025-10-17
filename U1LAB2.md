@@ -16,7 +16,7 @@ Your task is to add styling to this website. You will access elements of the pag
 2. There are 3 ways to access specific parts of an HTML file in order to style them. We can select the element tag (as we did with `img` above), the ID name, or the class name. First, style the font color of all the `h2` elements to the custom color `#e63946`. Add the following ruleset to the `style.css` and notice what changes.
     ```css
     h2 {
-        color: #e63946;
+        color: #29ec33ff;
     }
     ```
 

@@ -1,3 +1,29 @@
 img {
     max-width: 80%;
 }
+ h2 {border-style: solid;
+    border-width: 2px;
+        color: #29ec33ff;
+    border-color: black}
+    #header {
+        background-color: #df0a7f;
+    
+    box-shadow: 8px 8px 5px grey;}
+     .section {
+        background-color: #07f161a9;
+    }display:block:margin-left:margin-right
+    
+  h2 {
+        color: rgb(75, 7, 233);
+    }
+     #main-image {
+        width: 400px;
+    }
+    
+#main-image {
+        width: 400px;
+
+        display: block;
+        margin: auto;
+    }
+    
